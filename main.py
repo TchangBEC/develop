@@ -1,4 +1,5 @@
-def    hello(name):
-    return  "Hello " + name
+def hello(name):
+    return f"Hello {name}"
 
-print(hello("Tchang"))
+
+print(hello("Tchan"))
